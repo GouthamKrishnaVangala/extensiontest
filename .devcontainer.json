@@ -9,7 +9,6 @@
 		"mosaiq.binary.path": ["build","lib","libcyclicapp.so"]
 	},
 	"extensions": [
-		"mosaiqone.mosaiq",
 		"ms-vscode.cpptools",
 		"ms-vscode-remote.remote-containers"
 	],
